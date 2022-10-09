@@ -13,7 +13,7 @@ body
 }
 .lorem
 {
-	margin: 38px 10px 10px 10px;
+	margin: 40px 10px 10px 10px;
 }
 
 .row{
@@ -30,7 +30,7 @@ body
 		border: 3px goldenrod solid;
 		font-family: serif;
 		margin: 5px;
-		height: 140px;
+		height: 139px;
 		overflow: hidden;
 		float: left;
 		position: relative;
